@@ -61,5 +61,5 @@
 ---
 
 <p align="center">
-  <i>⭐️ fix the e-waste. kiss the boy. reverse the PCB.</i>
+  <i> Nothing is e-waste if your dedicated enough.</i>
 </p>
