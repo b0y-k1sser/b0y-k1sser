@@ -59,6 +59,10 @@
   <img src="https://media.tenor.com/PYebqiLl3P0AAAAi/i-don%27t-care-sanadid.gif" width="200"/>
   <img src="https://media.tenor.com/Em3fLZTajlgAAAAi/boy-kisser-tag-to-find-this-gif.gif" width="200"/>
   <img src="https://media1.tenor.com/m/wf1CBVKM8T8AAAAC/mimi-typh.gif" width="200"/>
+  <img src="https://media.tenor.com/ydGWHlS3E30AAAAi/mimi.gif" width="200">\
+  <img src="https://media1.tenor.com/m/lPcIYgc-PhkAAAAd/mimi-typh.gif" width="200"/>
+  <img src="https://media1.tenor.com/m/vYzV2W6gMusAAAAC/typh-mimi.gif" width="200"/>
+  
 </p>
 
 ---
